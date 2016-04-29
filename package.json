@@ -1,0 +1,25 @@
+{
+  "name": "react-testapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "can": "^2.3.23",
+    "can-react": "git+https://github.com/pYr0x/can-react.git#react-update",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "steal": "^0.16.2",
+    "steal-jsx": "git+https://github.com/pYr0x/steal-jsx.git#update-deps"
+  },
+  "system": {
+    "directories": {
+      "lib": "src"
+    },
+    "npmAlgorithm": "flat"
+  }
+}
