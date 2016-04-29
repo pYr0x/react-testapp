@@ -1,4 +1,3 @@
-import React from 'react';
 import CanReact from 'can-react/can-react';
 import Map from 'can/map/';
 import 'can/map/define/';
